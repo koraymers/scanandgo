@@ -1,6 +1,7 @@
+
 Scan and Go!
 
-Scan and Go! is a mobile application designed to reduce checkout queues in supermarkets and make the payment process more frictionless. The project was developed as part of the MIS 497 and MIS 498 courses in the Business Informatics Bachelor’s program at Istanbul Bilgi University.
+Scan and Go! is a mobile application designed to reduce checkout queues in supermarkets and make the payment process more frictionless. The project was developed as part of the MIS 497 and MIS 498 courses in the Business Informatics Bachelor program at Istanbul Bilgi University.
 
 🚀 Project Purpose
 
@@ -12,6 +13,7 @@ With the Scan and Go app, customers can scan the barcodes of the products they w
 🛠 Technologies Used
 	•	Java
 	•	Kotlin
+	•	MySQL DB
 
 📱 Usage Example
 	1.	Open the app and enter the supermarket.
@@ -23,4 +25,7 @@ With the Scan and Go app, customers can scan the barcodes of the products they w
 This project is open source and licensed under the Open Source License.
 
 📱Screenshots
+
 ![Scan and Go!](https://github.com/user-attachments/assets/8391f49a-27d2-461e-9579-fb8468cec6f2)
+
+![scan and go-icon](https://github.com/user-attachments/assets/0bd940e5-df33-492a-b223-57c0599f1178)
