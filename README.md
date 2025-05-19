@@ -18,15 +18,9 @@ With the Scan and Go app, customers can scan the barcodes of the products they w
 	2.	Scan the barcodes of your desired items as you shop.
 	3.	When you’re done, complete your purchase with online payment and skip the checkout line.
 
-📱Screenshots
-
-![scan and go-icon](https://github.com/user-attachments/assets/1f261a76-ace8-4eff-8d78-3c0a4b6e0f76)
-![Screenshot_20250519_235448](https://github.com/user-attachments/assets/977aed50-68f2-42d2-834c-daab0417c091)
-![Screenshot_20250519_235619](https://github.com/user-attachments/assets/fe4af48c-65bb-4602-9841-2e1ac453c749)
-![Screenshot_20250519_235704](https://github.com/user-attachments/assets/601b5b3b-cf63-4862-bbc3-92f420f75713)
-![Screenshot_20250519_235515](https://github.com/user-attachments/assets/678043a4-9b77-41fa-b9a4-5a276fbf2a90)
-
-
 🔓 License
 
 This project is open source and licensed under the Open Source License.
+
+📱Screenshots
+![Scan and Go!](https://github.com/user-attachments/assets/8391f49a-27d2-461e-9579-fb8468cec6f2)
