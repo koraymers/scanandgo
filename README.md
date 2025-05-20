@@ -6,16 +6,19 @@ Scan and Go! is a mobile application designed to reduce checkout queues in super
 🚀 Project Purpose
 
 With the Scan and Go app, customers can scan the barcodes of the products they wish to purchase while shopping in-store. Once shopping is complete, they can pay online through the app — eliminating the need to wait in line at the checkout. This approach aims to:
+
 	•	Minimize time spent waiting in line at the cashier
 	•	Enhance the shopping experience through digitalization
 	•	Provide a seamless and contactless payment process
 
 🛠 Technologies Used
+
 	•	Java
 	•	Kotlin
 	•	MySQL DB
 
 📱 Usage Example
+
 	1.	Open the app and enter the supermarket.
 	2.	Scan the barcodes of your desired items as you shop.
 	3.	When you’re done, complete your purchase with online payment and skip the checkout line.
